@@ -1,4 +1,4 @@
 {
-  "_base": "https://github.com/saadaslamali/livecodingsamples/main/",
-  "samplex": ["test.wav"]
+  "_base": "https://raw.githubusercontent.com/saadaslamali/livecodingsamples/main/",
+  "bass": ["test.wav"]
 }
