@@ -1,4 +1,5 @@
 {
   "_base": "https://raw.githubusercontent.com/saadaslamali/livecodingsamples/main/",
-  "bassxyz": ["test.wav"]
+  "bassxyz": ["test.wav"],
+  "meme": ["memeaudio.wav"]
 }
